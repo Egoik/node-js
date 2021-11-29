@@ -1,4 +1,4 @@
-const userName = "Igor";
+const userName = "Igor ";
 
 const sayHi = (userName) => `Hello, my name is ${userName}`;
 
